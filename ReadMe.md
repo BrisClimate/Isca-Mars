@@ -1,3 +1,15 @@
+## Note for Isca-Mars
+
+This is a development branch of the Isca-Mars set up, used for simulations analyzed
+in Ball et al. 2021, "The roles of latent heating and dust in the structure and
+variability of the northern Martian polar vortex". DOI:
+
+[![DOI](https://zenodo.org/badge/350370198.svg)](https://zenodo.org/badge/latestdoi/350370198)
+
+For the main Isca repository, please visit:
+https://github.com/ExeClim/Isca
+
+***
 # Isca
 
 Isca is a framework for the idealized modelling of the global circulation of
